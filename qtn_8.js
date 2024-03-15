@@ -4,7 +4,7 @@ const favoriteMovie = {
     star: {
       name: "Puff", 
       age: 45, 
-      country: "Uganda"
+      country: "Uganda",
     }
   }
   
